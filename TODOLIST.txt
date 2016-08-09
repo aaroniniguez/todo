@@ -1,0 +1,4 @@
+to do: 
+1. waive ucal ship
+2. install mingw64
+3. for sites of the same name open new page?...
